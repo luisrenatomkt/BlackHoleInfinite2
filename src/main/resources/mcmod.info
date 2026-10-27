@@ -1,0 +1,8 @@
+[{
+  "modid": "blackholeinfinite",
+  "name": "Black Hole Infinite",
+  "description": "Um buraco negro que cresce sem limite artificial, ampliando seu alcance gravitacional conforme absorve materia.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "authorList": ["Black Hole Infinite"]
+}]
